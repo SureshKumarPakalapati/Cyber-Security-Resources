@@ -8,7 +8,7 @@
 
 [Hack9 Courses](https://mega.nz/folder/i0cxGI4J#Q7NB2PgXC21KIU9xX-B3fw)
 
-[ Hackpack 2021 With New And Updated Methods & tutorial :beginner:]( https://mega.nz/folder/wKokjDTD) | Decrypt key :rQY3SploFUHCyr74L3X4jQ
+[ Hackpack 2021 With New And Updated Methods & tutorial :beginner:]( https://mega.nz/folder/wKokjDTD) | Decrypt key : rQY3SploFUHCyr74L3X4jQ
 
 [Complete Ethical hacking bootcamp 2021 zero to mastery](https://mega.nz/folder/o5QAHJxY#F57YMHtR_1Lcgw9p6WcMKg)
 
