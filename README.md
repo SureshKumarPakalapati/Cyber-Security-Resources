@@ -4,6 +4,8 @@
 
 [CHFI - Computer Hacking Forensic Investigator || 2021 Updated Course](https://mega.nz/folder/xABikJCb#RuUHZK1MSGJjmGkU_aUoag)
 
+[All collection of Cyber Security Courses](https://mega.nz/folder/SYU2zSAD#HHH1Z9QdFlhgmsK9OuXgiA/file/nFslFSLC)
+
 [EC Council | Certified Security Analyst ](https://mega.nz/file/rs4FSK5J#vBmNQv6V6E-1CV9udU0uk8oMutoPSPKfD6a4Dccsya8)
 
 [ Hackpack 2021 With New And Updated Methods & tutorial :beginner:]( https://mega.nz/folder/wKokjDTD) | Decrypt key : rQY3SploFUHCyr74L3X4jQ
