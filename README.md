@@ -4,6 +4,11 @@
 
 [CHFI - Computer Hacking Forensic Investigator || 2021 Updated Course](https://mega.nz/folder/xABikJCb#RuUHZK1MSGJjmGkU_aUoag)
 
+Cyber Security Collection |
+[Link 1](https://drive.google.com/drive/folders/1q2sOBNU4lPBkwtF1Msl6uCACBV5TUGWD) |
+[Link 2](https://drive.google.com/drive/folders/1q2sOBNU4lPBkwtF1Msl6uCACBV5TUGWD) |
+[Link 3](https://drive.google.com/drive/folders/0ByzazsLLzvFwLVNfSW5BeS0yLTg)
+
 [All collection of Cyber Security Courses](https://mega.nz/folder/SYU2zSAD#HHH1Z9QdFlhgmsK9OuXgiA/file/nFslFSLC)
 
 [EC Council | Certified Security Analyst ](https://mega.nz/file/rs4FSK5J#vBmNQv6V6E-1CV9udU0uk8oMutoPSPKfD6a4Dccsya8)
