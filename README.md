@@ -57,6 +57,8 @@ If you are looking for any cyber security course for free then search in this we
 
 [Privilage escalation cheet sheet](https://0xsp.com/offensive/privilege-escalation-cheatsheet)
 
+[The Complete Privilage esclation course](https://mega.nz/folder/n8MBAQLB#UiANRCV1Qx3ne0s3Kojw5A)
+
 [OSWE (AWAE) - Advanced Web Attacks and Exploitation - WEB 300 by Offensive Security (2019)](https://mega.nz/folder/wmJhyaZB) | Decrypt key : MDHQLqqEeZm1U1Kyhw7_Dw
 
 [ETHICAL HACKING WITH GO PROGRAMMING LANGUAGE: BUILD TOOLS](https://mega.nz/file/HkhQibBB#cJZ-AWEblc6gOTWCNORWzKL1ykvvnL9Y4yfa7Pp0j3Q)
