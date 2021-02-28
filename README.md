@@ -11,6 +11,8 @@ Cyber Security Collection |
 
 [All collection of Cyber Security Courses](https://mega.nz/folder/SYU2zSAD#HHH1Z9QdFlhgmsK9OuXgiA/file/nFslFSLC)
 
+[BUNDLES IN PYTHON & CYBER SECURITY | MASSIVE EBOOKS COLLECTION](https://mega.nz/folder/cZhnWQaY#BTvhr5a_XUmKr6ZOw49_Hg)
+
 [EC Council | Certified Security Analyst ](https://mega.nz/file/rs4FSK5J#vBmNQv6V6E-1CV9udU0uk8oMutoPSPKfD6a4Dccsya8)
 
 [ Hackpack 2021 With New And Updated Methods & tutorial :beginner:]( https://mega.nz/folder/wKokjDTD) | Decrypt key : rQY3SploFUHCyr74L3X4jQ
