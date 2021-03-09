@@ -2,6 +2,8 @@
 
 [Open-Source Intelligence(OSINT) Fundamentals By Heath Adams](https://mega.nz/folder/AmQVzCZB#XdSJsQMO8CfSropqjDFFnw)
 
+[BUNDLES IN PYTHON & CYBER SECURITY | MASSIVE EBOOKS COLLECTION [14.07 GB]](https://mega.nz/folder/cZhnWQaY#BTvhr5a_XUmKr6ZOw49_Hg)
+
 [CHFI - Computer Hacking Forensic Investigator || 2021 Updated Course](https://mega.nz/folder/xABikJCb#RuUHZK1MSGJjmGkU_aUoag)
 
 Cyber Security Collection |
@@ -14,6 +16,14 @@ Cyber Security Collection |
 [BUNDLES IN PYTHON & CYBER SECURITY | MASSIVE EBOOKS COLLECTION](https://mega.nz/folder/cZhnWQaY#BTvhr5a_XUmKr6ZOw49_Hg)
 
 [EC Council | Certified Security Analyst ](https://mega.nz/file/rs4FSK5J#vBmNQv6V6E-1CV9udU0uk8oMutoPSPKfD6a4Dccsya8)
+
+[CEH V6](https://drive.google.com/folderview?id=0ByzazsLLzvFwN1JpYk56aV9lZVU)
+[CEH V7&8](https://drive.google.com/folderview?id=0ByzazsLLzvFwbDZsckJuQmtHVUU)
+[CehV9](https://drive.google.com/folderview?id=1HGFX8ywbaJ4WcHPfRU_4hNCJ4ZXQ99pN)
+[CEHV10](https://cloud.mail.ru/public/6z48/4AMcaKSfQ/)
+[CEH V11](https://drive.google.com/file/d/1gZiWIQdYM230BqKLj9WZYbIArpAZT8_1/view?usp=sharing)
+
+
 
 [ Hackpack 2021 With New And Updated Methods & tutorial :beginner:]( https://mega.nz/folder/wKokjDTD) | Decrypt key : rQY3SploFUHCyr74L3X4jQ
 
@@ -88,6 +98,8 @@ If you are looking for any cyber security course for free then search in this we
 [Lynda Cybersecurity course 1](https://mega.nz/folder/pCxVXJjA#uO8MGAUs--VfhixffVzYZA)|
 [Lynda Cybersecurity course 2](https://mega.nz/folder/f5B2TBrJ#7mvXwTsvQXD4Y0Yu5L7kCw)|
 [Lynda Cybersecurity course 3](https://mega.nz/folder/zjAzlLjL#HaM2tjZDSd5qNNPe5lYoTA)
+
+[Intro to Bug Bounty Hunting and Web Application Hacking by Ben Sadeghipour AKA nahamsec](https://mega.nz/#P!AgDuiGORAIhqFIeCk0oFtkEUF0vO_1JeWjQcZw7Az8l9MIulo4yVdO2r8HzWGLRCIiaG_pkrSuEJaDH1c2ekfC5VbRiMSe5D8oz67zL-_xGZvDIqFWzvVw) | Decrypt key:  thdrksdhckr
 
 [Ethical Hacking penetration testing & Bug Hunting](https://mega.nz/folder/XwJkFQiA#FsK8rsGoFgMbFZv1s7YjjA)
 
