@@ -23,7 +23,7 @@ Cyber Security Collection |
 [CEHV10](https://cloud.mail.ru/public/6z48/4AMcaKSfQ/)
 [CEH V11](https://drive.google.com/file/d/1gZiWIQdYM230BqKLj9WZYbIArpAZT8_1/view?usp=sharing)
 
-
+[OSCP courses](https://mega.nz/#P!AgBbUiGIBNmodc-yYFEPty5UvfyK43raAhFC7t05-T284HctHT12zCDICP_QDLCwg8aoB82ceuQVbE22z_lc5DTWtPE0eTEL66IyjN9ldpEvdLlgheACWw) | Decrypt key: thdrksdhckr  | Extract key for files : https://t.me/ThDrksdHckr
 
 [ Hackpack 2021 With New And Updated Methods & tutorial :beginner:]( https://mega.nz/folder/wKokjDTD) | Decrypt key : rQY3SploFUHCyr74L3X4jQ
 
@@ -49,7 +49,6 @@ If you are looking for any cyber security course for free then search in this we
 
 [Blackhat Cracking Course by technical navigator](https://drive.google.com/drive/u/0/folders/17KyX_80h0yBUrc3X-PMa3EnXoE0kFmJJ?sort=13&direction=a)
 
-[OSCP (PWK) - Penetration Testing with Kali Linux - PEN 200, Version 2.0 by Offensive Security (2020) PDF](https://mega.nz/folder/82h2FTLA) | deccrypt key: XTKzO8gyZ6XCIy6ax0hx9A
 
 [NPTEL Ethical hacking program](https://nptel.ac.in/courses/106/105/106105217/)
 
@@ -71,7 +70,6 @@ If you are looking for any cyber security course for free then search in this we
 
 [The Complete Privilage esclation course](https://mega.nz/folder/n8MBAQLB#UiANRCV1Qx3ne0s3Kojw5A)
 
-[OSWE (AWAE) - Advanced Web Attacks and Exploitation - WEB 300 by Offensive Security (2019)](https://mega.nz/folder/wmJhyaZB) | Decrypt key : MDHQLqqEeZm1U1Kyhw7_Dw
 
 [ETHICAL HACKING WITH GO PROGRAMMING LANGUAGE: BUILD TOOLS](https://mega.nz/file/HkhQibBB#cJZ-AWEblc6gOTWCNORWzKL1ykvvnL9Y4yfa7Pp0j3Q)
 
