@@ -23,8 +23,6 @@ Cyber Security Collection |
 [CEHV10](https://cloud.mail.ru/public/6z48/4AMcaKSfQ/)
 [CEH V11](https://drive.google.com/file/d/1gZiWIQdYM230BqKLj9WZYbIArpAZT8_1/view?usp=sharing)
 
-[OSCP courses](https://mega.nz/#P!AgBbUiGIBNmodc-yYFEPty5UvfyK43raAhFC7t05-T284HctHT12zCDICP_QDLCwg8aoB82ceuQVbE22z_lc5DTWtPE0eTEL66IyjN9ldpEvdLlgheACWw) | Decrypt key: thdrksdhckr  | Extract key for files : https://t.me/ThDrksdHckr
-
 [ Hackpack 2021 With New And Updated Methods & tutorial :beginner:]( https://mega.nz/folder/wKokjDTD) | Decrypt key : rQY3SploFUHCyr74L3X4jQ
 
 [Complete Ethical hacking bootcamp 2021 zero to mastery](https://mega.nz/folder/o5QAHJxY#F57YMHtR_1Lcgw9p6WcMKg)
