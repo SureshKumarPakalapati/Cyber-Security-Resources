@@ -27,6 +27,10 @@ Cyber Security Collection |
 
 [Complete Ethical hacking bootcamp 2021 zero to mastery](https://mega.nz/folder/o5QAHJxY#F57YMHtR_1Lcgw9p6WcMKg)
 
+[The Complete Cybersecurity Bootcamp: Threat Defense, Ethical Hacking, and Incident Handling](https://mega.nz/#P!AgDLwgacugiwgrNKetFv8GGpQ9rCww8be95oTQ7i7bHqyIIHfEVwF_EkhXcYZW8_Z7-QtY6ukCqfsWGRFZ9sEUV6kXiHI4N3wDvbSuBJo9nocFDfT6SXeA) | Decrypt Key: thdrksdhckr
+
+[CHFI - Computer Hacking Forensic Investigator - EC-COUNCIL ](https://mega.nz/#P!AgBuCCJZuJnqA1ewYLLYdge1webmHrXGLueNeEfxZ_6TMCGS_DyPvDLx0O7JfxwAnLdGcDHKe018FrsxuWffF20jEVqK-yS82mSxiV7IjAzKEqziSoPo1Q) | Decrypt Key: thdrksdhckr
+
 [Cyber security course 1](https://mega.nz/#F!zMN00AKJ!V9ZTkIgJiE03YJDDwHe9Jw) |
 [Cyber security course 2](https://mega.nz/folder/2x9Q2SQY#bAbl9-naw0rwCk67M1o4lg) |
 [Cyber security course 3](https://mega.nz/folder/r0ZDyQDB#zW1jF76lYqwtRhgulJ4DTw)
