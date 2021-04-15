@@ -13,6 +13,10 @@ Cyber Security Collection |
 
 [All collection of Cyber Security Courses](https://mega.nz/folder/SYU2zSAD#HHH1Z9QdFlhgmsK9OuXgiA/file/nFslFSLC)
 
+[150 GB of Udemy - Ethical Hacking Courses](https://drive.google.com/drive/u/0/folders/1CdrveRU2iXGabR-nQ-G1o9GC4GusU-92?fbclid=IwAR1K9QFH8vK4k432rh7V7rnd_sHtGCHx6Tt7uNlkpmOUkQ_2RZaotFvymX0)
+
+
+
 [BUNDLES IN PYTHON & CYBER SECURITY | MASSIVE EBOOKS COLLECTION](https://mega.nz/folder/cZhnWQaY#BTvhr5a_XUmKr6ZOw49_Hg)
 
 [EC Council | Certified Security Analyst ](https://mega.nz/file/rs4FSK5J#vBmNQv6V6E-1CV9udU0uk8oMutoPSPKfD6a4Dccsya8)
@@ -66,6 +70,12 @@ If you are looking for any cyber security course for free then search in this we
 
 [🔰CompTIA CySA+ (CS0-002) Complete Course & Practice Exam🔰](https://mega.nz/folder/kQtw1BDT#-byYv3N5nucitJAVeviBEQ)
 
+[Comptia Security + Full Course](https://drive.google.com/open?id=1EPG_Dtzs7F0zWEvWkDJat7umvxWGdHwC)
+
+[CompTIA Security + SY0-601 Complete Video Course]( https://mega.nz/folder/bzwm1AiD#q-_buX8XRkF6A1yMT05pMg)
+
+[🔰 CISM Course 🔰](https://mega.nz/folder/sMwyURRA#ddMhnsrn4_JiSF6Zid7Ckg)
+
 [🔰CompTIA CySA+ (CS0-001) Complete Course & Practice Exam🔰](https://mega.nz/folder/66pXSYTT#GjbQkKXxT3dIWx-w5a47LA/folder/LvhDmYrK)
 
 [Privilage escalation cheet sheet](https://0xsp.com/offensive/privilege-escalation-cheatsheet)
@@ -80,6 +90,10 @@ If you are looking for any cyber security course for free then search in this we
 [Kali linux and ethical hacking courses](https://mega.nz/folder/U2B0zRwQ#dk7M1ooV4HvKYrVLIuX7_A)
 
 [Android Hacking Course  Free🔰](https://drive.google.com/uc?export=download&confirm=sJEE&id=15jCBHTFp0h9V8d10wBY4ntWwAZmk7Rvm)
+
+[The Complete Mobile Ethical Hacking Course](https://mega.nz/file/DxdX3CgR#a5oCJQtpRWYIGGXG50XmSNCYAS1_3mPexX4rtq4-4YE)
+
+[Mobile Application Security and Penetration Testing](https://mega.nz/file/TpIizQYI#dBI0USDD-69DBsOG9BKmu3UuhVPAD9efQ98vTOaso48)
 
 [🔰Udemy – Mobile Application Hacking and Penetration Testing (Android)](https://drive.google.com/file/d/1UutyIoiEf7HhF-6uivDbVhTFJ4wDbOt1/view)
 
@@ -100,6 +114,8 @@ If you are looking for any cyber security course for free then search in this we
 [Lynda Cybersecurity course 3](https://mega.nz/folder/zjAzlLjL#HaM2tjZDSd5qNNPe5lYoTA)
 
 [Intro to Bug Bounty Hunting and Web Application Hacking by Ben Sadeghipour AKA nahamsec](https://mega.nz/#P!AgDuiGORAIhqFIeCk0oFtkEUF0vO_1JeWjQcZw7Az8l9MIulo4yVdO2r8HzWGLRCIiaG_pkrSuEJaDH1c2ekfC5VbRiMSe5D8oz67zL-_xGZvDIqFWzvVw) | Decrypt key:  thdrksdhckr
+
+[Bug Bounty: Hacking WebApps from Scratch](https://mega.nz/file/dklkgRKJ#q3QmlkN27Bdgm4Dk3TyB8x2gLIDOex38tIZAnmfHtbM)
 
 [Ethical Hacking penetration testing & Bug Hunting](https://mega.nz/folder/XwJkFQiA#FsK8rsGoFgMbFZv1s7YjjA)
 
