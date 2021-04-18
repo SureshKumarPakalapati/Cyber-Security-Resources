@@ -15,6 +15,12 @@ Cyber Security Collection |
 
 [150 GB of Udemy - Ethical Hacking Courses](https://drive.google.com/drive/u/0/folders/1CdrveRU2iXGabR-nQ-G1o9GC4GusU-92?fbclid=IwAR1K9QFH8vK4k432rh7V7rnd_sHtGCHx6Tt7uNlkpmOUkQ_2RZaotFvymX0)
 
+[🔰HACKSTARS – Ethical Hacking & Cyber Security Course Part 1🔰](https://mega.nz/file/vMcUHKrQ#WotykEj6aqHOQ99OHElnDhnT8kkE3o6-sxF8T3kNCmM)
+
+[🔥 Team_Hack Hacking Tutorials 🔥](https://mega.nz/folder/gF4wlQqS#ev7daV6QruslTqjVcdbabg)
+
+[Bugbounty cheatsheet](https://docs.google.com/spreadsheets/u/0/d/1TxNrvaIMRS_dmupcwjwJmXtaFk_lPGE1LzgxPu_7KqA/htmlview#)
+
 
 
 [BUNDLES IN PYTHON & CYBER SECURITY | MASSIVE EBOOKS COLLECTION](https://mega.nz/folder/cZhnWQaY#BTvhr5a_XUmKr6ZOw49_Hg)
