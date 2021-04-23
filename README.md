@@ -13,6 +13,10 @@ Cyber Security Collection |
 
 [All collection of Cyber Security Courses](https://mega.nz/folder/SYU2zSAD#HHH1Z9QdFlhgmsK9OuXgiA/file/nFslFSLC)
 
+[Technical navigator ethical hacking course](https://drive.google.com/drive/u/0/folders/19x2gelnEMc27xtNVlVFcO74QpT2T_8lQ)
+
+[CRYPTOKNIGHT - Beginner to Pro in Ethical Hacking ](https://mega.nz/folder/YxB3wSiQ#Vpwluv1a1_f78XAGnHHIcg)
+
 [150 GB of Udemy - Ethical Hacking Courses](https://drive.google.com/drive/u/0/folders/1CdrveRU2iXGabR-nQ-G1o9GC4GusU-92?fbclid=IwAR1K9QFH8vK4k432rh7V7rnd_sHtGCHx6Tt7uNlkpmOUkQ_2RZaotFvymX0)
 
 [🔰HACKSTARS – Ethical Hacking & Cyber Security Course Part 1🔰](https://mega.nz/file/vMcUHKrQ#WotykEj6aqHOQ99OHElnDhnT8kkE3o6-sxF8T3kNCmM)
