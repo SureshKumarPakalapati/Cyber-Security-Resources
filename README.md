@@ -127,6 +127,8 @@ If you are looking for any cyber security course for free then search in this we
 
 [Bug Bounty: Hacking WebApps from Scratch](https://mega.nz/file/dklkgRKJ#q3QmlkN27Bdgm4Dk3TyB8x2gLIDOex38tIZAnmfHtbM)
 
+[Cyber Security Web Application Defender](https://mega.nz/folder/cUx2mDDA#b-D0N6wiMcHtJjp313t-IQ)
+
 [Ethical Hacking penetration testing & Bug Hunting](https://mega.nz/folder/XwJkFQiA#FsK8rsGoFgMbFZv1s7YjjA)
 
 [Ethical Hacking penetration testing & Bug Hunting-v2](https://mega.nz/folder/A2QUjJYR#Vv0xbGm30InMD5kG_tQSWw)
