@@ -4,6 +4,8 @@
 
 [BUNDLES IN PYTHON & CYBER SECURITY | MASSIVE EBOOKS COLLECTION [14.07 GB]](https://mega.nz/folder/cZhnWQaY#BTvhr5a_XUmKr6ZOw49_Hg)
 
+[Codered blackhat python course](https://mega.nz/folder/l0cgxJSK#2blSmY5BX8B1pPzzv7dViQ)
+
 [Python for ethical hacking](https://mega.nz/folder/jAxnEQzT#tg88N3mG4F2C2appZAnVDg)
 
 [CHFI - Computer Hacking Forensic Investigator || 2021 Updated Course](https://mega.nz/folder/xABikJCb#RuUHZK1MSGJjmGkU_aUoag)
