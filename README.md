@@ -9,7 +9,7 @@
 [Python for ethical hacking](https://mega.nz/folder/jAxnEQzT#tg88N3mG4F2C2appZAnVDg)
 
 CHFI - Computer Hacking Forensic Investigator || 2021 Updated Course |
-[Link 1](https://mega.nz/folder/xABikJCb#RuUHZK1MSGJjmGkU_aUoag)
+[Link 1](https://mega.nz/folder/xABikJCb#RuUHZK1MSGJjmGkU_aUoag) |
 [Link 2](https://mega.nz/folder/bUxVXB6T#Sk4IfPgjdCIDlF1THTXTKg)
 
 Cyber Security Collection |
