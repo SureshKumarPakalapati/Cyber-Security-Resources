@@ -4,6 +4,8 @@
 
 [BUNDLES IN PYTHON & CYBER SECURITY | MASSIVE EBOOKS COLLECTION [14.07 GB]](https://mega.nz/folder/cZhnWQaY#BTvhr5a_XUmKr6ZOw49_Hg)
 
+[https://mega.nz/folder/e58i0IJI#24XkzwcuKPrjUnFUYw8n0Q/folder/ih9XAKJI](CompTIA Security+ (SY0-501 & SY0-601) Complete Course & Exam)
+
 [Codered blackhat python course](https://mega.nz/folder/l0cgxJSK#2blSmY5BX8B1pPzzv7dViQ)
 
 [Python for ethical hacking](https://mega.nz/folder/jAxnEQzT#tg88N3mG4F2C2appZAnVDg)
