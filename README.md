@@ -145,6 +145,8 @@ If you are looking for any cyber security course for free then search in this we
 
 [Ethical Hacking penetration testing & Nmap](https://mega.nz/folder/VZF0ALBb#QhKtLGItCwIzlthsP3pDjA)
 
+[Website hacking by Zsecurity](https://drive.google.com/drive/u/0/folders/10NQBRdP3ddUWUlK4zY6ZdrZWZiLkuKe-)
+
 [Android Mobile Hacking Workshop](https://docs.google.com/presentation/d/1gK2vYdvwFn8r8dSawIWRRIF4yDF4qmMY2qEelS1M7rI/edit#slide=id.p)
 
 [Android Mobile Hacking course](https://mega.nz/folder/HDQlkIaL#fX0vlAgvJEF6daDcI7xGaQ)
