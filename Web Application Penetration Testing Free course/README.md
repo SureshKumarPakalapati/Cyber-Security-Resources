@@ -51,3 +51,29 @@
 [25.	Hex encoding & ASCII](https://www.youtube.com/watch?v=WW2SaCMnHdU)
 
 
+# Phase 3 – Setting up the lab with BurpSuite and bWAPP
+
+[26.	Setup lab with bWAPP](https://www.youtube.com/watch?v=dwtUn3giwTk&index=1&list=PLv95pq8fEyuivHeZB2jeC435tU3_1YGzV)
+
+[28.	Set up Burp Suite](https://www.youtube.com/watch?v=hQsT4rSa_v0&list=PLv95pq8fEyuivHeZB2jeC435tU3_1YGzV&index=2)
+
+[30.	Configure Firefox and add certificate](https://www.youtube.com/watch?v=hfsdJ69GSV4&index=3&list=PLv95pq8fEyuivHeZB2jeC435tU3_1YGzV)
+
+[32.	Mapping and scoping website](https://www.youtube.com/watch?v=H-_iVteMDRo&index=4&list=PLv95pq8fEyuivHeZB2jeC435tU3_1YGzV)
+	
+[34.	Spidering](https://www.youtube.com/watch?v=97uMUQGIe14&list=PLv95pq8fEyuivHeZB2jeC435tU3_1YGzV&index=5)
+
+[36.	Active and passive scanning](https://www.youtube.com/watch?v=1Mjom6AcFyU&index=6&list=PLv95pq8fEyuivHeZB2jeC435tU3_1YGzV)
+
+[38.	Scanner options and demo](https://www.youtube.com/watch?v=gANi4Kt7-ek&index=7&list=PLv95pq8fEyuivHeZB2jeC435tU3_1YGzV)
+	
+[40.	Introduction to password security](https://www.youtube.com/watch?v=FwcUhcLO9iM&list=PLv95pq8fEyuivHeZB2jeC435tU3_1YGzV&index=8)
+
+[42.	Intruder](https://www.youtube.com/watch?v=wtMg9oEMTa8&list=PLv95pq8fEyuivHeZB2jeC435tU3_1YGzV&index=9)
+
+[44.	Intruder attack types](https://www.youtube.com/watch?v=N5ndYPwddkQ&index=10&list=PLv95pq8fEyuivHeZB2jeC435tU3_1YGzV)
+
+[46.	Payload settings](https://www.youtube.com/watch?v=5GpdlbtL-1Q&index=11&list=PLv95pq8fEyuivHeZB2jeC435tU3_1YGzV)
+
+[48.	Intruder settings](https://www.youtube.com/watch?v=B_Mu7jmOYnU&list=PLv95pq8fEyuivHeZB2jeC435tU3_1YGzV&index=12)
+
