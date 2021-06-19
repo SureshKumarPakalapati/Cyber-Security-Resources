@@ -2,6 +2,8 @@
 
 [Open-Source Intelligence(OSINT) Fundamentals By Heath Adams](https://mega.nz/folder/AmQVzCZB#XdSJsQMO8CfSropqjDFFnw)
 
+[NjRAT v0.7d Danger Edition - Hack Anyone PC Silently](https://mega.nz/file/dd1DQaKT#jMt3aLXVNDkTSU3uuvWMrEqRj_YbwUh5STrAFsUtA8s)
+
 [Hacking Web Applications via PDFs, Images, and Links](https://mega.nz/folder/99l0nQoZ#zkStvIf1whenHiT5EZwpRA)
 
 [HOW HACKERS CREATE UNDETECTABLE MALWARE AND VIRUSES PAID COURSES LEAKED](https://mega.nz/folder/5V4R3QyC#3NaPApDjgZzBbaum-EeLSg)
@@ -218,6 +220,8 @@ Udemy paid courses
 [link 2](https://mega.nz/folder/Sw8Qgarb#zqBiBYbth58oncNOHon8eg)
 
 [Crypto Currency Course](https://drive.google.com/drive/folders/1wkopIbIkwaAlGZ-aLABQddJ_nj1URQo2?usp=sharing)
+
+[ALL Type Of Campus Placements Resources](https://www.crackingfactory.cf/2021/06/all-type-of-campus-placement-previous.html)
 
 
 
