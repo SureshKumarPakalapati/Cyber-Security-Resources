@@ -2,6 +2,8 @@
 
 [Open-Source Intelligence(OSINT) Fundamentals By Heath Adams](https://mega.nz/folder/AmQVzCZB#XdSJsQMO8CfSropqjDFFnw)
 
+[All Cyber security courses](https://courses.sudobyte.workers.dev/0:/)
+
 [Offensive security course](https://mega.nz/#F!adpgWYgJ!HSr97HTDUGY1E_rv0hu9Zw)
 
 [BUNDLES IN PYTHON & CYBER SECURITY | MASSIVE EBOOKS COLLECTION [14.07 GB]](https://mega.nz/folder/cZhnWQaY#BTvhr5a_XUmKr6ZOw49_Hg)
