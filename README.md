@@ -2,6 +2,8 @@
 
 [Open-Source Intelligence(OSINT) Fundamentals By Heath Adams](https://mega.nz/folder/AmQVzCZB#XdSJsQMO8CfSropqjDFFnw)
 
+[HOW HACKERS CREATE UNDETECTABLE MALWARE AND VIRUSES PAID COURSES LEAKED](https://mega.nz/folder/5V4R3QyC#3NaPApDjgZzBbaum-EeLSg)
+
 [All Cyber security courses](https://courses.sudobyte.workers.dev/0:/)
 
 [Offensive security course](https://mega.nz/#F!adpgWYgJ!HSr97HTDUGY1E_rv0hu9Zw)
