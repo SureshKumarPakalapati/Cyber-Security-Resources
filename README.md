@@ -2,6 +2,8 @@
 
 [Open-Source Intelligence(OSINT) Fundamentals By Heath Adams](https://mega.nz/folder/AmQVzCZB#XdSJsQMO8CfSropqjDFFnw)
 
+[Hacking Web Applications via PDFs, Images, and Links](https://mega.nz/folder/99l0nQoZ#zkStvIf1whenHiT5EZwpRA)
+
 [HOW HACKERS CREATE UNDETECTABLE MALWARE AND VIRUSES PAID COURSES LEAKED](https://mega.nz/folder/5V4R3QyC#3NaPApDjgZzBbaum-EeLSg)
 
 [All Cyber security courses](https://courses.sudobyte.workers.dev/0:/)
