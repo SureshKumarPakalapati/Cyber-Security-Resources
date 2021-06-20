@@ -4,6 +4,10 @@
 
 [OSCP](https://pwk.hide01.ir/)
 
+[OSWP](https://awae.hide01.ir/)
+
+[OSEP](https://pen300.hide01.ir/)
+
 [Bug Bounty Mind map](https://websecmindmap.netlify.app/)
 
 [NjRAT v0.7d Danger Edition - Hack Anyone PC Silently](https://mega.nz/file/dd1DQaKT#jMt3aLXVNDkTSU3uuvWMrEqRj_YbwUh5STrAFsUtA8s)
