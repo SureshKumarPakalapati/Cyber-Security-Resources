@@ -129,6 +129,8 @@ If you are looking for any cyber security course for free then search in this we
 
 [🎩 eLearnSecurity – Mobile Application Security and Penetration Testing (MASPT v2) 🎩](https://dropgalaxy.in/pe6kuece8oq9)
 
+[Mobile Hacking course](https://mega.nz/folder/HDQlkIaL#fX0vlAgvJEF6daDcI7xGaQ)
+
 [Attify's (Pentester Academy) Android Pentesting Course ](https://drive.google.com/drive/folders/1L8JSzGPkhUzmHb83EepKoGx_VpOChzZc)
 
 [Mobile Security: Reverse Engineer Android Apps From Scratch](https://www.mediafire.com/file/hetfem9w3t4frpo/Mobile_Security_-_Reverse_Engineer_Android_Apps_From_Scratch.rar/file)
