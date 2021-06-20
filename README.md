@@ -4,6 +4,8 @@
 
 [SQL Injection From Zero to Hero](https://drive.google.com/drive/u/0/folders/1131D1weZfwBq8vqScQlKkTvnR_GoJsFV)
 
+[Best Collections of Cyber Security Courses](https://hide01.ir/)
+
 [OSCP](https://pwk.hide01.ir/)
 
 [OSWP](https://awae.hide01.ir/)
