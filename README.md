@@ -2,6 +2,8 @@
 
 [Open-Source Intelligence(OSINT) Fundamentals By Heath Adams](https://mega.nz/folder/AmQVzCZB#XdSJsQMO8CfSropqjDFFnw)
 
+[Bug Bounty Mind map](https://websecmindmap.netlify.app/)
+
 [NjRAT v0.7d Danger Edition - Hack Anyone PC Silently](https://mega.nz/file/dd1DQaKT#jMt3aLXVNDkTSU3uuvWMrEqRj_YbwUh5STrAFsUtA8s)
 
 [Hacking Web Applications via PDFs, Images, and Links](https://mega.nz/folder/99l0nQoZ#zkStvIf1whenHiT5EZwpRA)
