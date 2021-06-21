@@ -2,6 +2,8 @@
 
 [Open-Source Intelligence(OSINT) Fundamentals By Heath Adams](https://mega.nz/folder/AmQVzCZB#XdSJsQMO8CfSropqjDFFnw)
 
+[Read Team Courses](https://mega.nz/folder/BX5SBKrY#Qw4AcfRRYMwheNDdrRlkkw)
+
 [SQL Injection From Zero to Hero](https://drive.google.com/drive/u/0/folders/1131D1weZfwBq8vqScQlKkTvnR_GoJsFV)
 
 [Best Collections of Cyber Security Courses](https://hide01.ir/)
