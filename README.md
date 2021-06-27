@@ -10,6 +10,8 @@
 
 [Best Collections of Cyber Security Courses](https://hide01.ir/)
 
+[Ethical hacking & Cyber security complete package course](https://drive.google.com/drive/u/0/folders/1t82IbGI1EuZr3lSjw7i0BTKtH6JcNnjw)
+
 [OSCP](https://pwk.hide01.ir/)
 
 [OSWP](https://awae.hide01.ir/)
@@ -60,6 +62,8 @@ Cyber Security Collection |
 [🔥 Team_Hack Hacking Tutorials 🔥](https://mega.nz/folder/gF4wlQqS#ev7daV6QruslTqjVcdbabg)
 
 [Bugbounty cheatsheet](https://docs.google.com/spreadsheets/u/0/d/1TxNrvaIMRS_dmupcwjwJmXtaFk_lPGE1LzgxPu_7KqA/htmlview#)
+
+[BLACKHAT & WHITEHAT MONEY METHODS ](https://mega.nz/folder/tFhRgDQI#spqU_MJzc-I99KHomwx0VQ)
 
 [BUNDLES IN PYTHON & CYBER SECURITY | MASSIVE EBOOKS COLLECTION](https://mega.nz/folder/cZhnWQaY#BTvhr5a_XUmKr6ZOw49_Hg)
 
