@@ -18,6 +18,8 @@
 
 [OSEP](https://pen300.hide01.ir/)
 
+[Best Cracking Course](https://mega.nz/folder/w6B3ySAb#2KNFKHFiLYEE9iYp--Z68Q)
+
 [Bug Bounty Mind map](https://websecmindmap.netlify.app/)
 
 [NjRAT v0.7d Danger Edition - Hack Anyone PC Silently](https://mega.nz/file/dd1DQaKT#jMt3aLXVNDkTSU3uuvWMrEqRj_YbwUh5STrAFsUtA8s)
