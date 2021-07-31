@@ -6,6 +6,11 @@
 
 [Penetration Testing Course with Kali Linux (PWK) 2020 v2]( https://mega.nz/folder/c10hzAjB#Pt3Nznz-LizVK8TdKHygRw)
 
+Black hat series |
+[Part 1](https://mega.nz/folder/TeJFyKQB#D--r-OIkb_HUbk1MXByhuA) |
+[Part 2](https://mega.nz/folder/reQzBYrD#d1YDMtZ-kj2MckLBSCUz1w) |
+[Part 3](https://mega.nz/folder/T6ggxA7b#LPCzudLj36OxXgsM4lsEqA)
+
 [Read Team Courses](https://mega.nz/folder/BX5SBKrY#Qw4AcfRRYMwheNDdrRlkkw)
 
 [SQL Injection From Zero to Hero](https://drive.google.com/drive/u/0/folders/1131D1weZfwBq8vqScQlKkTvnR_GoJsFV)
