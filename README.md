@@ -2,6 +2,8 @@
 
 [Open-Source Intelligence(OSINT) Fundamentals By Heath Adams](https://mega.nz/folder/AmQVzCZB#XdSJsQMO8CfSropqjDFFnw)
 
+[God Pack Cyber security Collections courses](https://mega.nz/folder/wfgCEKrA#VN8gxx3BKvH1PwjYXCYiMA)
+
 [Penetration Testing Course with Kali Linux (PWK) 2020 v2]( https://mega.nz/folder/c10hzAjB#Pt3Nznz-LizVK8TdKHygRw)
 
 [Read Team Courses](https://mega.nz/folder/BX5SBKrY#Qw4AcfRRYMwheNDdrRlkkw)
