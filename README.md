@@ -68,6 +68,8 @@ Cyber Security Collection |
 
 [Spamming course by Dedsec](https://drive.google.com/drive/folders/1ak_nYZPJc_elxC9qr8Qb6um8isPvvSGj)
 
+[Dedsec Complete Course](https://drive.google.com/drive/u/0/folders/1k_GdJtXMC-xyG-Rk-H0qEnqxZwX1R1p3)
+
 [150 GB of Udemy - Ethical Hacking Courses](https://drive.google.com/drive/u/0/folders/1CdrveRU2iXGabR-nQ-G1o9GC4GusU-92?fbclid=IwAR1K9QFH8vK4k432rh7V7rnd_sHtGCHx6Tt7uNlkpmOUkQ_2RZaotFvymX0)
 
 [🔰HACKSTARS – Ethical Hacking & Cyber Security Course Part 1🔰](https://mega.nz/file/vMcUHKrQ#WotykEj6aqHOQ99OHElnDhnT8kkE3o6-sxF8T3kNCmM)
