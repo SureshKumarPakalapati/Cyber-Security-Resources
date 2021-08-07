@@ -6,6 +6,8 @@
 
 [PACKT - The Complete Ethical Hacking Course](https://mega.nz/folder/rg9FjYiK#D_i2b958ExBJMxdrF2x8bw)
 
+[Extreme hack pack](https://mega.nz/folder/h4pkHJzL#bypWaoq63H1duQlu2drAvg)
+
 [God Pack Cyber security Collections courses](https://mega.nz/folder/wfgCEKrA#VN8gxx3BKvH1PwjYXCYiMA)
 
 [Penetration Testing Course with Kali Linux (PWK) 2020 v2]( https://mega.nz/folder/c10hzAjB#Pt3Nznz-LizVK8TdKHygRw)
@@ -247,6 +249,8 @@ Advance Penetration Testing
 [Security career](https://drive.google.com/open?id=1JGQEXMAtRKW63grSl6PnKkoXG46jp_mC)
 
 [SIEM Solutions](https://drive.google.com/open?id=1oDDNcGK3-my_9lXNFm7JIbSO262hfKaQ)
+
+[Cracking Packs](https://mega.nz/folder/w6B3ySAb#2KNFKHFiLYEE9iYp--Z68Q)
 
 [Security Books](https://drive.google.com/drive/folders/1TYQx-qNuvyeyHHHYz2u5vn0P2s1SRoBw)
 
