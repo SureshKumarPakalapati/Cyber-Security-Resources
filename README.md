@@ -2,6 +2,20 @@
 
 [Open-Source Intelligence(OSINT) Fundamentals By Heath Adams](https://mega.nz/folder/AmQVzCZB#XdSJsQMO8CfSropqjDFFnw)
 
+[Maltego Advanced Course](https://drive.google.com/folderview?id=1m1ZjHFdjLO6zE2SLtDqQ6X5E_yWwSQl8)
+
+[Reverse Engineering and Exploit Development](https://mega.nz/folder/zc110aAJ#7p4hsDbvBc90J8Kf-pGzWgj)
+
+[CPENT - The Certified Penetration Testing Professional](https://drive.google.com/folderview?id=10WLrlgsQt2UkFeiHoQoGDtZRoftFY5sG)
+
+[Introduction to Exploit/Zero-Day Discovery and Development](https://drive.google.com/folderview?id=1R-AAhwV8X1lzqHn6xxFriJxL2UvX9o7X)
+
+[Advanced Web Attacks and Exploitation (AWAE/WEB-300) - ](https://drive.google.com/folderview?id=1evV5GedEPfEyn_NCccnimagGzFLTlB4Z)
+
+[Web Hacking Secrets How to Hack Legally and Earn Thousands of Dollars at HackerOne](https://drive.google.com/folderview?id=14eKoOtnGLApDOEzw3d9xWlIE_sc8Idwy)
+
+[Complete Cyber Range Hacking Lab Full Course](https://drive.google.com/folderview?id=1-1ebyrTYHqa9Dp6-S317ukHL0v-Br1gD)
+
 [HOW HACKERS CREATE UNDETECTABLE MALWARE AND VIRUSES PAID COURSES LEAKED ](https://mega.nz/folder/5V4R3QyC#3NaPApDjgZzBbaum-EeLSg)
 
 [Zsecurity all courses](https://mega.nz/folder/eewAHKpS#eAEaAFcdKXM7How1ZaXQRw)
