@@ -77,6 +77,8 @@ CHFI - Computer Hacking Forensic Investigator || 2021 Updated Course |
 [Link 1](https://mega.nz/folder/xABikJCb#RuUHZK1MSGJjmGkU_aUoag) |
 [Link 2](https://mega.nz/folder/bUxVXB6T#Sk4IfPgjdCIDlF1THTXTKg)
 
+[Windows 11 ISO](https://mega.nz/file/4OBzBaJC#9BjwNEUSZsPcXyhdeB_eChqQbRzlPD2FGmsUEOL7PKs)
+
 Cyber Security Collection |
 [Link 1](https://drive.google.com/drive/folders/1q2sOBNU4lPBkwtF1Msl6uCACBV5TUGWD) |
 [Link 2](https://drive.google.com/drive/folders/1q2sOBNU4lPBkwtF1Msl6uCACBV5TUGWD) |
