@@ -2,6 +2,8 @@
 
 [Open-Source Intelligence(OSINT) Fundamentals By Heath Adams](https://mega.nz/folder/AmQVzCZB#XdSJsQMO8CfSropqjDFFnw)
 
+[Red Team Courses](https://mega.nz/folder/BX5SBKrY#Qw4AcfRRYMwheNDdrRlkkw)
+
 [Maltego Advanced Course](https://drive.google.com/folderview?id=1m1ZjHFdjLO6zE2SLtDqQ6X5E_yWwSQl8)
 
 [Reverse Engineering and Exploit Development](https://mega.nz/folder/zc110aAJ#7p4hsDbvBc90J8Kf-pGzWgj)
