@@ -20,6 +20,8 @@
 
 [HOW HACKERS CREATE UNDETECTABLE MALWARE AND VIRUSES PAID COURSES LEAKED ](https://mega.nz/folder/5V4R3QyC#3NaPApDjgZzBbaum-EeLSg)
 
+[Black Hat Hacking Course ](https://mega.nz/folder/E1c0kRyL#d4L37n8wZM3QQW7VpCT2ZQ)
+
 [Zsecurity all courses](https://mega.nz/folder/eewAHKpS#eAEaAFcdKXM7How1ZaXQRw)
 
 [PACKT - The Complete Ethical Hacking Course](https://mega.nz/folder/rg9FjYiK#D_i2b958ExBJMxdrF2x8bw)
